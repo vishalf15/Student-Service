@@ -8,6 +8,7 @@ Use following details to add Student
 	URL - http://localhost:8080/student/add
 	METHOD - POST
 	Request Body-	
+		
 		{
 			"fName": "Vishal",
 			"lName": "Nimbalkar",
@@ -30,6 +31,7 @@ Use following details to get list of all Students
 	URL - http://localhost:8080/student/list
 	METHOD - GET 
 	Response Body - 
+		
 		[
 		    {
 		        "rollNo": 1,
@@ -46,6 +48,7 @@ Use following details to particular student details
 	URL - http://localhost:8080/student/detail/1
 	METHOD - GET 
 	Response Body - 
+	    
 	    {
 	        "rollNo": 1,
 	        "fName": "Vishal",
