@@ -71,7 +71,7 @@ Use following details to login and walk-through H2 DB details. You will find log
 
 URL - http://localhost:8080/h2
 
-<img src="/img/H2_Login_Screen.jpg" alt="H2 login Screen"/>
+<img src="./img/H2_Login_Screen.jpg" alt="H2 login Screen"/>
 
 
 Use Sql queries to view details from Tables.
