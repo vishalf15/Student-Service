@@ -5,6 +5,7 @@ About Student-Service
 3.	Spring data JPA have used
 
 Use following details to add Student
+	
 	URL - http://localhost:8080/student/add
 	METHOD - POST
 	Request Body-	
@@ -28,6 +29,7 @@ Use following details to add Student
 		
 ----------------------------------------------------------------------------------------------------
 Use following details to get list of all Students
+	
 	URL - http://localhost:8080/student/list
 	METHOD - GET 
 	Response Body - 
@@ -45,6 +47,7 @@ Use following details to get list of all Students
 
 ----------------------------------------------------------------------------------------------------	
 Use following details to particular student details
+	
 	URL - http://localhost:8080/student/detail/1
 	METHOD - GET 
 	Response Body - 
@@ -60,6 +63,7 @@ Use following details to particular student details
 	
 ----------------------------------------------------------------------------------------------------
 Use following details to remove Student
+	
 	URL - http://localhost:8080/student/remove/1
 	METHOD - DELETE
 	Response Body -
